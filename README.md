@@ -13,7 +13,7 @@
          Zusätzlich soll an einem beliebigen Punkt die lokale Wellenform als Linienplot ausgegeben werden.
     
 ##Dependencies
-         1. Matlab
+         1. Matlab Version R2015a
 
 ##Speicherort
          Der Code wave_infinity.m kann in einem beliebigen Ordner abgelegt werden. 
