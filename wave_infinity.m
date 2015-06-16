@@ -15,6 +15,8 @@ function wave_infinity()
 % wichtiger Hinweis: Grundlage des Codes beruht auf folgender Quelle: Oleg Alexandro, File:Two sources interference.gif , erstellt am
 %          03:11, 13 January 2008 (UTC), URL: http://commons.wikimedia.org/wiki/File:Two_sources_interference.gif, zuletzt
 %          besucht am 15.06.2015 13:54
+
+
 clc
 clear
 close all
