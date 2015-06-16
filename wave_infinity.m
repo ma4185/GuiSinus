@@ -1,4 +1,4 @@
-function wave_infinity_TEST3()
+function wave_infinity()
 % Diese Funktion erstellt eine 2-dimensionale Grafik in der sich Schallwellen kreisförmig ausbreiten und Interferenzmuster zeigen.
 % Anwendung: wave_infinity
 % Eingegebener Parameter:
