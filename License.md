@@ -1,5 +1,5 @@
 # License
-## Programm **wave_infinity.m** can search a database to words, sentenses, persons or phonemes.
+## Programm **wave_infinity.m** can give an animation of two or more sound sources interferences.
 ###  wave_infinity.m Copyright (C) <2015>  
 ###  Nora Jürgens, Hanna Möhle Maren Osterloh
 
