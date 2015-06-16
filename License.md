@@ -1,5 +1,5 @@
 # License
-## Programm **suchen.m** can search a database to words, sentenses, persons or phonemes.
+## Programm **wave_infinity.m** can search a database to words, sentenses, persons or phonemes.
 ###  wave_infinity.m Copyright (C) <2015>  
 ###  Nora Jürgens, Hanna Möhle Maren Osterloh
 
@@ -18,7 +18,7 @@ The license is adopted by the following homepage from the OPEN SOURCE INITIATIVE
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-	    suchen.m  Copyright (C) 2015  Nora Jürgens, Hanna Möhle, Maren Osterloh
+	    wave_infinity.m  Copyright (C) 2015  Nora Jürgens, Hanna Möhle, Maren Osterloh
 
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
