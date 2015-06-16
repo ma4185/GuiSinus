@@ -31,10 +31,12 @@
          Animation gestoppt werden.
          Nach der Einstellung der jeweiligen Parameter gibt es eine zusätzliche Funktion, die die lokale Wellenform an einem
          beliebigen Punkt in der Welle ausgibt. Hierzu kann mit der Maus an einem beliebigen Punkt in dem Graphen, im Bereich
-         der Welle gedrückt werden (hier ist manchmal ein Doppelklick notwendig). Danach öffnet sich ein zweites Fenster, in
+         der Welle gedrückt werden (hier ist ein Doppelklick notwendig). Danach öffnet sich ein zweites Fenster, in
          dem die Wellenform an dem Punkt zweidimensional über die Zeit angegeben wird. 
          Diese Ausgabe läuft nur dann, wenn bei der Graphik der Kreiswelle der Startbutton betätigt wurde und die Animation
          läuft.
+         Zum Schließen des Wellenformplots muss in der Gui die Animation durch einen Click auf den Stop-Button beendet
+         werden. Anschließend können die Fenster wie gewohnt geschlossen werden.
          
          wichtiger Hinweis: Während der Ausgabe der lokalen Wellenform kann die Frequenz und Amplitude nicht verändert
          werden. 
